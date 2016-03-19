@@ -1,0 +1,52 @@
+/*
+* @Author: _foolgry
+* @Date:   2016-03-20 01:59:24
+* @Last Modified by:   _foolgry
+* @Last Modified time: 2016-03-20 02:00:09
+*/
+body, div {
+    padding: 0;
+    margin: 0;
+}
+#main {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 2px solid green;
+    margin: 50px auto;
+    overflow: hidden;
+}
+#container {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    left: 0;
+    top: -100px;
+}
+.crow {
+    width: 400px;
+    height: 100px;
+}
+.cell {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.black {
+    background-color: black;
+}
+#score {
+    text-align: center;
+}
+#start {
+    position: relative;
+    margin: 100px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "微软雅黑","楷体","新宋体";
+    font-size: 50px;
+    line-height: 200px;
+}
