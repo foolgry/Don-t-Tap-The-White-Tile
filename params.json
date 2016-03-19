@@ -1,6 +1,6 @@
 {
   "name": "Don-t-tap-the-white-tile",
   "tagline": "",
-  "body": "#别踩白块\r\n原生js写的别踩白块，还在完善中。",
+  "body": "# Don-t-Tap-The-White-Tile\r\n- 别踩白块[demo](http://foolgry.github.io/Don-t-Tap-The-White-Tile/main/)\r\n- [源码](https://github.com/foolgry/Don-t-Tap-The-White-Tile/tree/gh-pages/main)\r\n- 还在完善中\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
